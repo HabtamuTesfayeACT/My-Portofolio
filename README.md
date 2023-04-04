@@ -6,7 +6,7 @@ Welcome to my web! I am excited to have you here and hope you enjoy your browsin
 
 ## **Getting Started:**
 
-To start browsing our web, simply type[https://habtamutesfayeact.github.io/Fifia-Random-coutries/](https://habtamutesfayeact.github.io/Hotel-Ekub-paring/) or click on the link above. Once you arrive on our homepage, you will be greeted with a clean, simple design that is easy to navigate. 
+To start browsing our web, simply type(https://habtamutesfayeact.github.io/My-Portofolio/) or click on the link above. Once you arrive on our homepage, you will be greeted with a clean, simple design that is easy to navigate. 
 
 ## Navigation
 
